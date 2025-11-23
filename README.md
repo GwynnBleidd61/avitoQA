@@ -76,8 +76,8 @@ https://qa-internship.avito.com
 1. Клонируйте репозиторий:
 
 ```bash
-git clone <url>
-cd <project>
+git clone https://github.com/GwynnBleidd61/avitoQA
+cd avitoQA
 ```
 
 (Опционально) создайте виртуальное окружение:
